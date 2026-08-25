@@ -2,23 +2,23 @@
 Quick Commerce Dark Store Efficiency &amp; Fulfillment Intelligence Dashboard using MySQL and Power BI
 # MicroFulfillIQ — Quick Commerce Dark Store Efficiency & Fulfillment Intelligence Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 **MicroFulfillIQ** is a business analytics project designed to analyze quick-commerce dark store operations using **MySQL and Microsoft Power BI**.
 
 The dashboard provides insights into orders, revenue, customers, fulfillment, delivery performance, inventory, customer experience, and marketing campaign performance.
 
-## 🏢 Industry
+##  Industry
 
 **Quick Commerce / E-commerce / Supply Chain & Logistics**
 
-## 🎯 Business Problem
+##  Business Problem
 
 Quick-commerce businesses must deliver customer orders rapidly while maintaining inventory availability, fulfillment efficiency, delivery reliability, customer satisfaction, and profitable marketing activities.
 
 MicroFulfillIQ provides a centralized analytical solution to identify operational inefficiencies and support data-driven business decisions.
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze overall order and revenue performance.
 * Monitor order fulfillment and delivery efficiency.
@@ -29,7 +29,7 @@ MicroFulfillIQ provides a centralized analytical solution to identify operationa
 * Provide actionable business insights and recommendations.
 * Demonstrate an end-to-end SQL + Power BI analytics workflow.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **MySQL** — Database management and SQL analysis
 * **Power BI** — Data visualization and dashboard development
@@ -37,7 +37,7 @@ MicroFulfillIQ provides a centralized analytical solution to identify operationa
 * **DAX** — KPI and analytical measure creation
 * **GitHub** — Project documentation and portfolio publishing
 
-## 📊 Key KPIs
+##  Key KPIs
 
 | KPI                    |  Value |
 | ---------------------- | -----: |
@@ -55,7 +55,7 @@ MicroFulfillIQ provides a centralized analytical solution to identify operationa
 | Marketing Revenue      | 15.52M |
 | Average Marketing ROAS |   1.97 |
 
-## 📑 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Executive Overview
 
@@ -120,7 +120,7 @@ Analyzes:
 * Campaign revenue performance
 * Campaign ROAS performance
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 1. The dashboard records approximately **1.06K orders** and **2.36M in revenue**, providing a consolidated view of business performance.
 
@@ -134,7 +134,7 @@ Analyzes:
 
 6. Marketing generated approximately **15.52M in revenue** against **7.89M in marketing spend**, with an average ROAS of **1.97**.
 
-## 📌 Recommendations
+##  Recommendations
 
 * Improve last-mile delivery planning to increase the on-time delivery rate.
 * Investigate major causes of delivery delays and address recurring operational bottlenecks.
@@ -144,7 +144,7 @@ Analyzes:
 * Focus resources on high-performing products and marketing channels.
 * Use the dashboard regularly for management-level operational monitoring.
 
-## 🗄️ Project Workflow
+##  Project Workflow
 
 ```text
 Dataset
@@ -162,14 +162,14 @@ Interactive Dashboard
 Business Insights & Recommendations
 ```
 
-## 📂 Repository Contents
+##  Repository Contents
 
 * **Power BI Dashboard** — Complete `.pbix` project file
 * **Dashboard Screenshots** — Screenshots of the five dashboard pages
 * **SQL** — Database and analytical SQL resources
 * **Documentation** — Project methodology, insights and recommendations
 
-## 👩‍💻 Project
+##  Project
 
 **MicroFulfillIQ — Quick Commerce Dark Store Efficiency & Fulfillment Intelligence Dashboard**
 
