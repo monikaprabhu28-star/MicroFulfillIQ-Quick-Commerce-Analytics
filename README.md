@@ -42,7 +42,7 @@ MicroFulfillIQ provides a centralized analytical dashboard to monitor key operat
 * Business Analytics
 
 ## Key Performance Indicators
-KPI	        Value
+## KPI	        Value
 Total Orders	1.06K
 Total Revenue	2.36M
 Total Customers	2.50K
