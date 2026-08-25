@@ -42,23 +42,24 @@ MicroFulfillIQ provides a centralized analytical dashboard to monitor key operat
 * Business Analytics
 
 ## Key Performance Indicators
-
-| KPI                    |  Value |
-| ---------------------- | -----: |
-| Total Orders           |  1.06K |
-| Total Revenue          |  2.36M |
-| Total Customers        |  2.50K |
-| Average Order Value    |  2.23K |
-| On-Time Delivery Rate  |  69.8% |
-| Customer Satisfaction  |   3.38 |
-| Delayed Orders         |    320 |
-| Delay Rate             |  30.2% |
-| Total Stock Received   |    29K |
-| Damaged Stock          |     1K |
-| Marketing Spend        |  7.89M |
-| Marketing Revenue      | 15.52M |
-| Average Marketing ROAS |   1.97 |
-
+KPI	        Value
+Total Orders	1.06K
+Total Revenue	2.36M
+Total Customers	2.50K
+Average Order Value	2.23K
+On-Time Delivery Rate	69.8%
+Average Delivery Time	4.32
+Average Customer Satisfaction	3.38
+Delayed Orders	320
+Delay Rate	30.2%
+Total Quantity Sold	2K
+Product Count	268
+Total Stock Received	29K
+Damaged Stock	1K
+Marketing Spend	7.89M
+Marketing Revenue	15.52M
+Average Marketing ROAS	1.97
+|
 ## Dashboard Pages
 
 ### 1. Executive Overview
@@ -182,9 +183,6 @@ MicroFulfillIQ demonstrates how business data can be transformed into an interac
 
 The dashboard enables management to monitor business performance, identify operational issues, evaluate customer experience, understand inventory health, and assess marketing performance through a single reporting solution.
 
-## Project Title
-
-**MicroFulfillIQ — Quick Commerce Dark Store Efficiency & Fulfillment Intelligence Dashboard**
 
 
 
