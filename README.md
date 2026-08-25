@@ -1,43 +1,47 @@
-# MicroFulfillIQ-Quick-Commerce-Analytics
-Quick Commerce Dark Store Efficiency &amp; Fulfillment Intelligence Dashboard using MySQL and Power BI
 # MicroFulfillIQ — Quick Commerce Dark Store Efficiency & Fulfillment Intelligence Dashboard
 
-##  Project Overview
+## Project Overview
 
-**MicroFulfillIQ** is a business analytics project designed to analyze quick-commerce dark store operations using **MySQL and Microsoft Power BI**.
+MicroFulfillIQ is a business analytics dashboard designed to analyze quick-commerce dark store operations and customer experience.
 
-The dashboard provides insights into orders, revenue, customers, fulfillment, delivery performance, inventory, customer experience, and marketing campaign performance.
+The project uses a realistic quick-commerce dataset to analyze order performance, revenue, customers, fulfillment, delivery operations, inventory, customer feedback, and marketing performance.
 
-##  Industry
+The solution was developed using Microsoft Power BI, Power Query, and DAX to transform data into interactive dashboards and actionable business insights.
 
-**Quick Commerce / E-commerce / Supply Chain & Logistics**
+## Industry
 
-##  Business Problem
+Quick Commerce / E-commerce / Supply Chain & Logistics
 
-Quick-commerce businesses must deliver customer orders rapidly while maintaining inventory availability, fulfillment efficiency, delivery reliability, customer satisfaction, and profitable marketing activities.
+## Business Problem
 
-MicroFulfillIQ provides a centralized analytical solution to identify operational inefficiencies and support data-driven business decisions.
+Quick-commerce businesses need to fulfill customer orders rapidly while maintaining product availability, efficient delivery operations, customer satisfaction, and effective marketing performance.
 
-##  Objectives
+Monitoring these areas separately can make it difficult for management to identify operational inefficiencies and understand the factors affecting business performance.
+
+MicroFulfillIQ provides a centralized analytical dashboard to monitor key operational and customer metrics and support data-driven decision-making.
+
+## Objectives
 
 * Analyze overall order and revenue performance.
-* Monitor order fulfillment and delivery efficiency.
-* Identify delayed orders and delivery-delay patterns.
-* Analyze inventory received and damaged stock.
-* Measure customer satisfaction and feedback.
-* Evaluate marketing spending, revenue, and ROAS.
+* Monitor customer and order trends.
+* Evaluate order fulfillment performance.
+* Analyze delivery time and delivery delays.
+* Monitor inventory received and damaged stock.
+* Analyze customer ratings and feedback.
+* Evaluate marketing spending, revenue, and return on investment.
+* Identify areas for operational improvement.
 * Provide actionable business insights and recommendations.
-* Demonstrate an end-to-end SQL + Power BI analytics workflow.
 
-##  Tools & Technologies
+## Tools and Technologies
 
-* **MySQL** — Database management and SQL analysis
-* **Power BI** — Data visualization and dashboard development
-* **Power Query** — Data transformation and ETL
-* **DAX** — KPI and analytical measure creation
-* **GitHub** — Project documentation and portfolio publishing
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Visualization
+* Data Cleaning and Transformation
+* Business Analytics
 
-##  Key KPIs
+## Key Performance Indicators
 
 | KPI                    |  Value |
 | ---------------------- | -----: |
@@ -55,124 +59,132 @@ MicroFulfillIQ provides a centralized analytical solution to identify operationa
 | Marketing Revenue      | 15.52M |
 | Average Marketing ROAS |   1.97 |
 
-##  Dashboard Pages
+## Dashboard Pages
 
 ### 1. Executive Overview
 
-Provides a management-level overview of:
+Provides a high-level view of overall business performance, including:
 
-* Orders
-* Revenue
-* Customers
+* Total Orders
+* Total Revenue
+* Total Customers
 * Average Order Value
-* On-Time Delivery
+* On-Time Delivery Rate
 * Customer Satisfaction
-* Revenue and order trends
+* Revenue trends
+* Order trends
 * Order status
 * Payment methods
 * Customer feedback
 
-### 2. Order & Fulfillment Performance
+### 2. Order and Fulfillment Performance
 
-Analyzes:
+Analyzes order and product performance through:
 
 * Orders by product category
-* Top products by revenue
+* Revenue by product category
+* Top-performing products
 * Quantity sold
 * Product count
-* Orders by delivery status
-* Revenue by product category
-* Average Order Value by category
+* Order fulfillment performance
+* Average Order Value
 
 ### 3. Delivery Operations
 
-Analyzes:
+Focuses on delivery efficiency and service performance:
 
-* Order volume trend
 * Average delivery time
 * On-time delivery rate
-* Delay rate
 * Delayed orders
-* Delivery status distribution
-* Delivery delay reasons
+* Delay rate
+* Delivery status
+* Delivery trends
+* Delay reasons
 
-### 4. Inventory & Customer Experience
+### 4. Inventory and Customer Experience
 
-Analyzes:
+Analyzes inventory health and customer experience:
 
 * Stock received
 * Damaged stock
-* Inventory distribution by category
+* Inventory by category
 * Damaged stock by category
-* Customer satisfaction rating profile
-* Average customer rating
+* Customer ratings
+* Customer satisfaction
+* Feedback performance
 
-### 5. Marketing Performance & Campaign ROI
+### 5. Marketing Performance and Campaign ROI
 
-Analyzes:
+Analyzes marketing effectiveness using:
 
-* Marketing spending
+* Marketing spend
 * Marketing revenue
 * Marketing ROAS
-* Revenue trend
-* Revenue contribution by channel
+* Revenue by marketing channel
 * Conversions by channel
-* Campaign revenue performance
-* Campaign ROAS performance
+* Campaign revenue
+* Campaign ROAS
 
-##  Key Business Insights
+## Key Business Insights
 
-1. The dashboard records approximately **1.06K orders** and **2.36M in revenue**, providing a consolidated view of business performance.
+1. The business records approximately 1.06K orders and 2.36M in revenue, providing a consolidated view of overall performance.
 
-2. The **69.8% on-time delivery rate** indicates that delivery reliability is an important area for operational improvement.
+2. The on-time delivery rate is 69.8%, indicating that delivery reliability is an important area for improvement.
 
-3. The **30.2% delay rate** and **320 delayed orders** highlight the need to investigate delivery bottlenecks and delay causes.
+3. The 30.2% delay rate and 320 delayed orders highlight the need to investigate delivery bottlenecks and delay causes.
 
-4. Customer satisfaction is approximately **3.38/5**, indicating an opportunity to improve customer experience.
+4. Customer satisfaction is approximately 3.38 out of 5, indicating opportunities to improve customer experience.
 
-5. Approximately **29K units of stock were received**, while around **1K units were recorded as damaged**, highlighting the importance of inventory quality monitoring.
+5. Approximately 29K units of stock were received, while around 1K units were recorded as damaged, highlighting the importance of inventory quality monitoring.
 
-6. Marketing generated approximately **15.52M in revenue** against **7.89M in marketing spend**, with an average ROAS of **1.97**.
+6. Marketing generated approximately 15.52M in revenue against 7.89M in marketing spend, with an average ROAS of 1.97.
 
-##  Recommendations
+## Recommendations
 
-* Improve last-mile delivery planning to increase the on-time delivery rate.
-* Investigate major causes of delivery delays and address recurring operational bottlenecks.
-* Monitor inventory damage by category and improve handling and storage processes.
+* Improve delivery planning and fulfillment processes to increase the on-time delivery rate.
+* Investigate recurring causes of delivery delays.
+* Monitor damaged inventory by product category.
+* Improve inventory handling and storage practices.
 * Analyze customer feedback regularly to identify service-quality issues.
 * Optimize marketing campaigns based on revenue contribution and ROAS.
-* Focus resources on high-performing products and marketing channels.
-* Use the dashboard regularly for management-level operational monitoring.
+* Focus on high-performing products and channels.
+* Use the dashboard regularly to monitor operational performance and support management decisions.
 
-##  Project Workflow
+## Project Workflow
 
 ```text
 Dataset
    ↓
-MySQL Database
+Data Cleaning and Transformation
    ↓
-SQL Data Cleaning & Validation
+Power Query
    ↓
-Power BI / Power Query
+Data Model
    ↓
-DAX Measures & KPIs
+DAX Measures and KPIs
    ↓
-Interactive Dashboard
+Power BI Dashboard
    ↓
-Business Insights & Recommendations
+Business Insights
+   ↓
+Recommendations
 ```
 
-##  Repository Contents
+## Repository Contents
 
-* **Power BI Dashboard** — Complete `.pbix` project file
-* **Dashboard Screenshots** — Screenshots of the five dashboard pages
-* **SQL** — Database and analytical SQL resources
-* **Documentation** — Project methodology, insights and recommendations
+* `microfulfilliq_dashboad.pbix` — Complete Power BI dashboard project
+* `Dashboard-Screenshots` — Dashboard screenshots and visual documentation
+* `README.md` — Project overview, methodology, KPIs, insights and recommendations
 
-##  Project
+## Project Outcome
+
+MicroFulfillIQ demonstrates how business data can be transformed into an interactive analytical solution for quick-commerce operations.
+
+The dashboard enables management to monitor business performance, identify operational issues, evaluate customer experience, understand inventory health, and assess marketing performance through a single reporting solution.
+
+## Project Title
 
 **MicroFulfillIQ — Quick Commerce Dark Store Efficiency & Fulfillment Intelligence Dashboard**
 
-A portfolio project demonstrating practical skills in:
 
-**SQL | Data Cleaning | Data Modeling | Power BI | Power Query | DAX | Business Analytics | Data Visualization**
+
